@@ -660,7 +660,7 @@ const QuerySystem = () => {
       <div className="max-w-6xl mx-auto">
         <div className="mb-8 text-center">
           <h1 className="text-4xl font-bold text-foreground mb-2">
-            Procurement Knowledge Base
+            CIL Manual
           </h1>
           <p className="text-muted-foreground text-lg">
             Search through procurement guidelines, policies, and best practices
@@ -767,7 +767,7 @@ const QuerySystem = () => {
             <CardContent className="text-center py-12">
               <Search className="h-16 w-16 text-muted-foreground mx-auto mb-4" />
               <h3 className="text-xl font-medium text-foreground mb-2">
-                Welcome to Procurement Knowledge Base
+                Welcome to CIL Manual
               </h3>
               <p className="text-muted-foreground mb-4">
                 Start by entering a search query to find relevant procurement information
